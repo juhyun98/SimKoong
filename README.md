@@ -22,12 +22,13 @@
    - id : gaheun@gmail.com
    - pw : 1234
 
+<br><br>
 <img width="3000" height="1688" alt="image" src="https://github.com/user-attachments/assets/6bc18dde-6651-40ab-83f6-12c17ccd614c" />
 
 <img width="3000" height="1688" alt="image" src="https://github.com/user-attachments/assets/71c03580-2252-4657-96e1-5153c165e071" />
 
 <img width="1757" height="990" alt="image" src="https://github.com/user-attachments/assets/68dfa104-3ec2-49ba-853f-e53062d56c44" />
-
+<br><br>
 
 ## 개선사항
 
