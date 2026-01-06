@@ -35,20 +35,19 @@
 
 ## 사용 기술 및 라이브러리
 
-- Spring boot, Java
-- JS, HTML, CSS
-- JSP, JPA Lombok
-- Maven, Spring WebSocket, Spring Security
-- AWS EC2, AWS S3
-- DL/CNN/KNN
+- 웹 개발 : Java, Spring boot, HTML/CSS/JS
+- 모듈 및 툴 : Maven, JPA Lombok, Spring WebSocket, Spring Security
+- DB : CassandraDB, MySQL
+- Cloud : AWS EC2, AWS S3
+- AI : DL/CNN/KNN
 
 <br><br>
 
 ## 담당한 기능 (Front, Back-end)
 
 - 전반적인 웹 디자인
-- 회원가입, 탈퇴 기능 및 프로필 수정 기능
-- 회원정보 Spring Security 사용
+- CRUD (회원가입, 로그인, 탈퇴 및 프로필 수정)
+- Spring Security CSRF token
 - JS를 활용한 매칭 페이지의 좋아요 기능과 스킵 기능
 - AWS S3를 Spring boot와 연결하여 이미지 업로드 구현
 
