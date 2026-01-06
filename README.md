@@ -23,6 +23,9 @@
    - pw : 1234
 
 <br><br>
+<img width="1469" height="792" alt="image" src="https://github.com/user-attachments/assets/6162f652-4024-4dc1-a4e5-868221941fe9" />
+
+
 <img width="3000" height="1688" alt="image" src="https://github.com/user-attachments/assets/6bc18dde-6651-40ab-83f6-12c17ccd614c" />
 
 <img width="3000" height="1688" alt="image" src="https://github.com/user-attachments/assets/71c03580-2252-4657-96e1-5153c165e071" />
@@ -30,8 +33,27 @@
 <img width="1757" height="990" alt="image" src="https://github.com/user-attachments/assets/68dfa104-3ec2-49ba-853f-e53062d56c44" />
 <br><br>
 
-## 개선사항
+## 사용 기술 및 라이브러리
 
+- Spring boot, Java
+- JS, HTML, CSS
+- JSP, JPA Lombok
+- Maven, Spring WebSocket, Spring Security
+- AWS EC2, AWS S3
+- DL/CNN/KNN
+
+<br><br>
+
+## 담당한 기능 (Front, Back-end)
+
+- 전반적인 웹 디자인
+- 회원가입, 탈퇴 기능 및 프로필 수정 기능
+- 회원정보 Spring Security 사용
+- JS를 활용한 매칭 페이지의 좋아요 기능과 스킵 기능
+- AWS S3를 Spring boot와 연결하여 이미지 업로드 구현
+
+<br><br>
+## 개선사항
 ## 문제
 
 - Cassandra DB에 대한 지식이 부족하여 사용하기 어려움을 겪음
@@ -52,6 +74,8 @@
 - 비용 최적화를 자동으로 처리해줌
 - 지연 시간을 줄이고 데이터가 늘어나도 S3의 확장성덕에 자동으로 확장
 - IAM과 버킷을 사용하여 접근 권한 설정으로 보안수준도 높음
+
+<br><br>
 
 ## 깨달은 점
 
